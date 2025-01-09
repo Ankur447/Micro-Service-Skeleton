@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+dist/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.workspace
+*.project
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.o
+*.out
+*.pyc
+
+# Version control files
+.git/
+
+# Environment-specific files
+.env
+.config
